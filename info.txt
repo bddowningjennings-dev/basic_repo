@@ -1,0 +1,6 @@
+create local dir - mkdir basic_repo
+git init
+code .
+create info.txt
+git add .
+git commit -m "added info.txt"
